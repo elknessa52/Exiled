@@ -206,4 +206,4 @@ This repository serves as the official landing page for Exiled. The software is 
 **Get the most recent version of Exiled today!**
 
 ---
-**Last updated:** 2026-11-10 03:57:42 UTC
+**Last updated:** 2026-11-10 12:22:57 UTC
